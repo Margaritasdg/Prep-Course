@@ -1,0 +1,167 @@
+[33m59bf0ad[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m commit inicial
+[33me900fc3[m first commit
+[33m39735e2[m Merge pull request #20 from soyHenry/fix/calendar_redirect
+[33m7873ca5[m feat(prep): add path /Calendario
+[33m43735a5[m Merge pull request #17 from soyHenry/fix/wording_challenge_page
+[33mfa114b0[m fix(challenge): wording changes
+[33mca1d61a[m Merge pull request #16 from soyHenry/fix/challenge_inscription_url
+[33mc65ccb4[m Update README.md
+[33m4697b65[m fix(challenge): change url for Challenge
+[33m20e8b19[m Update README.md
+[33mb76728a[m Update README.md
+[33meb0d802[m Update README.md
+[33md6fe6f9[m Update README.md
+[33m0ea1f08[m Merge pull request #4 from GustavoMartinezFS/patch-1
+[33m14ace95[m Update repository name
+[33mfa9f4d0[m linting
+[33m5ff9713[m linting
+[33m738ebbe[m ssl update
+[33med7e3ba[m url fixed
+[33mccc537d[m Merge pull request #64 from soyHenry/updates_23.03
+[33m8ffbe05[m Merge branch 'main' into updates_23.03
+[33mee6b17e[m updates 2303
+[33m5a22251[m Create .eleventyignore
+[33m5c082d8[m Create .eleventyignore
+[33mf1e01ec[m Update README.md
+[33mba6a20d[m OpenHouse added
+[33mc975e98[m refactor
+[33m00a2dce[m Update README.md
+[33ma45b730[m Update README.md
+[33ma4e5c41[m refactor
+[33m88cc371[m refactor
+[33me46bcbb[m CloudFront url update
+[33mf0d633e[m Update lesson.njk
+[33m61d09f8[m Update responsive.js
+[33m1b04019[m Update .eleventy.js
+[33m0d00968[m Update README.md
+[33m2246a1a[m Update lesson.js
+[33m6dcd92a[m Quizz added to lesson layout
+[33m4e5247a[m Calendar updated
+[33mb787b46[m Merge pull request #42 from soyHenry/refactor/CloudFront-implementation
+[33mf60a9a5[m Update miPrimerHTML.html
+[33mc2275b8[m Update .gitignore
+[33m8eda41e[m Update .gitignore
+[33m0c7e777[m CloudFront implementation
+[33mf644708[m Update README.md
+[33m7d017f4[m Update README.md
+[33mf13b1dd[m Update README.md
+[33m6d79166[m Update README.md
+[33m9deeb55[m Update README.md
+[33m05a2e9a[m Update README.md
+[33mba0f33d[m Update README.md
+[33m17e03c1[m Update README.md
+[33ma0e4739[m Update README.md
+[33m60015be[m Update README.md
+[33m5c36064[m Update README.md
+[33md29efe5[m Merge pull request #29 from soyHenry/staging
+[33m6ad52a4[m fix
+[33ma4abaed[m fix
+[33m89f9f99[m Merge pull request #27 from soyHenry/jime
+[33md46ed9f[m added a mini intro to the glossary
+[33me3f7402[m mini intro for the glossary
+[33m8fde56d[m new format added by Nacho
+[33md2103b6[m .
+[33mec64c7b[m title changed
+[33m6f6bbed[m minor fixes
+[33mc0b2ecc[m logo added
+[33m51b1aee[m glossary index & styles
+[33m710e500[m fixes
+[33mce3b45f[m Merge pull request #26 from soyHenry/jime
+[33m75178be[m primera parte del glosario terminado
+[33ma41c4a1[m fix/lessonIntro style
+[33mccb9fdd[m Merge pull request #21 from GustavoMartinezFS/patch-2
+[33m7e05ffc[m Merge pull request #25 from soyHenry/staging
+[33m3c253f7[m Merge pull request #24 from soyHenry/feat/Cache_Resources
+[33mcee00d4[m refactor/data styles folder
+[33m7256fb3[m cached resources
+[33md67cd49[m avance con el desarrollo del glosario
+[33m3ed132b[m Merge pull request #22 from soyHenry/feat/Cache_Resources
+[33mb880ce8[m Delete logoNav.js
+[33mfdd8c8f[m css cached
+[33m4a00a18[m add reporter folder
+[33m88f1168[m Agregue el glosario, lo ubique en la navbar
+[33mae85f4d[m Agregue un Glosario
+[33m3ab9342[m Merge pull request #20 from soyHenry/staging
+[33m9357284[m var name fixed
+[33m9856d7e[m Merge pull request #19 from GustavoMartinezFS/patch-1
+[33me900f71[m Update package.json
+[33m3f1c8ef[m Merge pull request #18 from soyHenry/staging
+[33m3fbe07d[m conditional feedback button
+[33m781a529[m Merge pull request #17 from soyHenry/staging
+[33m3e7514c[m Merge pull request #16 from soyHenry/homeworks-link
+[33m97d8814[m conditional homework button
+[33m56d5e4e[m Merge pull request #15 from soyHenry/homeworks-link
+[33m37da81b[m Update README.md
+[33mc577b13[m Update README.md
+[33mee40f36[m Update intro.njk
+[33md18946f[m Update intro.njk
+[33m420cdaa[m Merge pull request #14 from soyHenry/staging
+[33m7b70453[m Update package-lock.json
+[33m949aa70[m Update package.json
+[33mdc97b0b[m front matter on layouts added
+[33md7a4dcf[m Merge pull request #13 from soyHenry/staging
+[33m97c07f7[m Title fix
+[33ma96cdfc[m Merge pull request #12 from soyHenry/staging
+[33m928630e[m Update README.md
+[33mad3fea3[m Merge pull request #11 from soyHenry/staging
+[33ma178d8d[m global data on json config file
+[33mae7039d[m modules migration
+[33m16a9afe[m assets migration
+[33m340d61a[m favIcon updated
+[33m3d7a558[m Merge pull request #10 from soyHenry/staging
+[33mbbbbf4a[m assets migration
+[33m25e25e2[m assets migration
+[33m4b78b50[m assets migration
+[33mbb10218[m assets migration
+[33m0d79d06[m assets migration
+[33m200a4e8[m logo test
+[33mefea64a[m assets migration
+[33m5f534b7[m spelling fix
+[33m7fa91ca[m subtitle added
+[33m396010d[m Merge pull request #9 from soyHenry/staging
+[33md57016a[m case final fix
+[33mb6d2b96[m case fix
+[33m7b3d663[m case fixes
+[33m75bbcaf[m case testing
+[33mb5a0cb5[m test
+[33mdb9764e[m fix
+[33m93d6ce4[m Merge pull request #7 from soyHenry/refactor/removing-front-matter
+[33mc62d4b7[m global data added
+[33m345ec41[m templates updated
+[33mddd9ed3[m front matter removed
+[33m4abaf47[m Merge pull request #6 from soyHenry/refactor/resources-clouding-migration
+[33m6741253[m Update package.json
+[33mff96ff1[m modules added
+[33m03c255b[m Update .eleventy.js
+[33m8ac9bcf[m Merge pull request #5 from soyHenry/refactor/resources-clouding-migration
+[33m2553cc8[m Update .eleventy.js
+[33madf23c9[m Merge pull request #4 from soyHenry/refactor/resources-clouding-migration
+[33m8951cd4[m front matter removed - parsing data from jsons
+[33m7719b7a[m Merge pull request #3 from soyHenry/refactor/resources-clouding-migration
+[33me51e5fd[m Update .eleventy.js
+[33m3ac20ee[m global data
+[33me8a53ad[m variables added on layouts
+[33m01ed668[m Update .eleventy.js
+[33m1bd7bcc[m Merge pull request #2 from soyHenry/feat/clouding
+[33mcebc82c[m AWS resources fixed on intro template
+[33m51a0824[m Merge pull request #1 from soyHenry/feat/clouding
+[33m2fa6fa5[m resource modules on AWS ok
+[33me175e81[m styles resources on AWS ok
+[33m2eacca4[m responsive bug fixed
+[33m006958c[m table style added
+[33me428229[m favicon added
+[33m8420bab[m some titles shortened
+[33m3125bf7[m homework links updated
+[33mb049413[m Repeated content deleted
+[33m7f93b4b[m Update intro.njk
+[33mc17c314[m titles fixed
+[33ma3873f7[m intro layout added
+[33mad42431[m Update lesson.css
+[33m53d7c69[m feedback css class renamed
+[33m1657256[m H2 homework css selector
+[33m102bfb7[m fonts passthrough no more needed
+[33m0167d6a[m Update README.md
+[33m27af522[m Content fix
+[33m98af101[m Fixes
+[33ma5a3625[m lessons order fixed
+[33m9d3e9a4[m initial commit
